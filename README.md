@@ -1,4 +1,3 @@
-
 # *Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure*
 
 ### NAME: Arivazhagan G R
